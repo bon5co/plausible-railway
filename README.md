@@ -1,5 +1,9 @@
 # plausible-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/plausible-ce-or-just-updated-google-anal?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Plausible CE template](https://railway.com/deploy/plausible-ce-or-just-updated-google-anal?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Plausible Community Edition v3.2.1 packaged for Railway.
 
 The stock image opens its HTTP port with an empty user table, and Plausible's
